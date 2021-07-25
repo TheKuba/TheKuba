@@ -37,3 +37,7 @@ body {
     color: white;
     text-align: center;
 }
+
+input[type="submit"] {
+    cursor: pointer;
+}
