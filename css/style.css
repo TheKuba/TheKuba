@@ -1,7 +1,9 @@
 body {
     font-family : sans-serif;
     background-image : url("pictures/background.jpg");
-    background-size : auto;
+    background-size : cover;
+    background-repeat:   no-repeat;
+    background-position: center center;
     color : rgb(255, 255, 255);
 }
 
