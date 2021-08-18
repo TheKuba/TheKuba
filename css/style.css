@@ -21,18 +21,20 @@ body {
     float : left;
     width : 45%;
     margin-right : 5%;
+    margin-left : 1%;
 }
 
 #games {
     float : left;
     width : 45%;
-    margin-left : 5%
+    margin-left : 1%
 }
 
 #computer {
     float : left;
     width : 45%;
-    margin-left : 5%
+    margin-right : 5%;
+    margin-left : 1%;
 }
 
 .icon {
